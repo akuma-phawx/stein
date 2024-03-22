@@ -1,4 +1,4 @@
-# STEIN ! 🎁
+# STEIN !
 
 [DEVELOPMENT MODE]
 
