@@ -1,4 +1,5 @@
-# STEIN 
+# STEIN 🧪
+
 
 [DEVELOPMENT MODE]
 
